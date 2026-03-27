@@ -12,7 +12,3 @@ I'm a Project Manager in Training with a passion for technology and a drive to b
 My journey in tech is just beginning, and I'm committed to developing my skills as I work toward leading impactful projects. I value curiosity, adaptability, and collaboration—qualities that help me thrive both in teams and when tackling new challenges.
 
 While I haven’t completed any public projects yet, I’m eager to learn from the open-source community and contribute as I grow. If you have advice or resources for someone starting out in project management and tech, feel free to reach out!
-
----
-
-*“The beautiful thing about learning is that nobody can take it away from you.”* – B.B. King
